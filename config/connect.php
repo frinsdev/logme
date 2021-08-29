@@ -1,8 +1,8 @@
 <?php
 
-  $db_host = 'localhost';
-  $db_username = 'root'; 
-  $db_password = 'root';
+  $db_host = 'sql103.epizy.com';
+  $db_username = 'epiz_29573972'; 
+  $db_password = 'QYwB6TWdPN';
   $db_name = 'logme';
 
   $conn = mysqli_connect($db_host, $db_username, $db_password);
