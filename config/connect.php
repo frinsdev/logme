@@ -3,7 +3,7 @@
   $db_host = 'sql103.epizy.com';
   $db_username = 'epiz_29573972'; 
   $db_password = 'QYwB6TWdPN';
-  $db_name = 'logme';
+  $db_name = 'epiz_29573972_XXX';
 
   $conn = mysqli_connect($db_host, $db_username, $db_password);
   $db_select = mysqli_select_db($conn, $db_name);
